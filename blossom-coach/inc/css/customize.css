@@ -99,3 +99,7 @@ label.row-element.more-detail{
 #customize-control-wheeloflife_img .attachment-media-view.attachment-media-view-image {
   margin-block-end: 8px;
 }
+
+#accordion-section-blossom_coach_page_view_pro .accordion-section-title::after{
+   content: none;
+}

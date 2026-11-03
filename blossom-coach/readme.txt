@@ -3,8 +3,8 @@
 Contributors: blossomthemes
 Requires at least: 6.2
 Requires PHP: 7.4
-Tested up to: 6.9
-Stable tag: 1.5.9
+Tested up to: 7.1
+Stable tag: 1.6.0
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Tags: blog, one-column, two-columns, right-sidebar, left-sidebar, footer-widgets, custom-background, custom-header, custom-menu, custom-logo, featured-images, threaded-comments, full-width-template, rtl-language-support, translation-ready, theme-options, e-commerce, portfolio
@@ -82,15 +82,25 @@ https://isabelcastillo.com/woocommerce-cart-icon-count-theme-header/
 
 Some codes are taken from Twenty Twenty theme - https://wordpress.org/themes/twentytwenty/
   
-Images used in screenshots.
-Source:
-https://pixabay.com/en/working-business-women-female-work-1219889/
+Images used in screenshot and theme (all downloaded October 30, 2026)
+License: CC0 1.0 Universal, https://creativecommons.org/publicdomain/zero/1.0/
+StockSnap license terms: https://stocksnap.io/license
+
+Banner Image (images/banner-img.jpg, screenshot):
+https://stocksnap.io/photo/woman-business-JK1WUKX3VR
+
+Logos used in screenshot:
 https://svgporn.com/
-License: CC0, https://pixabay.com/en/service/terms/#usage, https://github.com/gilbarbara/logos/blob/master/LICENSE.txt
+License: CC0, https://github.com/gilbarbara/logos/blob/master/LICENSE.txt
 
 All other images including icon image used in screenshot and images used in customizer settings are self created and are under the GPL.
 
 == Changelog ==
+
+    1.6.0 - November 02, 2026
+        * Fix: Replaced the screenshot and banner images with CC0-licensed images from StockSnap.
+        * Update: Added an admin notice recommending the installation of the PayLexer plugin when WooCommerce is activated.
+        * Update: Updated fontawesome to 6.7.2.
 
     1.5.9 - April 06, 2026
         * Fix: Updated PHP to 7.4
